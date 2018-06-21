@@ -1,0 +1,20 @@
+body{
+background:#000000;
+  color:#ffffff; 
+}
+p{
+    color:#873A95;
+    border:solid;
+    border-radius:10px;
+    font-size:20px;
+    font-family:'Open Sans',sanserif;
+    
+    
+}
+h1{
+color:white;
+}
+img{height:400px;
+    width:40%;
+
+}
